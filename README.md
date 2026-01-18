@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Sen</h1>
-<h3 align="center">A passionate Andorid developer from India</h3>
+<h3 align="center">Android Developer | Learning Backend with Spring Boot | Building Scalable Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragcpp&label=Profile%20views&color=0e75b6&style=flat" alt="anuragcpp" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/anurag007sen" target="blank"><img src="https://img.shields.io/twitter/follow/anurag007sen?logo=twitter&style=for-the-badge" alt="anurag007sen" /></a> </p>
 
-- 🔭 I’m currently working on [Kids Drawing App](https://github.com/Anuragcpp/Drowing_App.git)
+- 🔭 I’m currently working on CodeNicely
 
-- 🌱 I’m currently learning **Android with kotlin and jetpack compose**
+- 🌱 I’m currently learning **Backend Systems with java & Spring-boot**
 
 - 👯 I’m looking to collaborate on **Google summer of code**
 
-- 🤝 I’m looking for help with [MVVM architecture in my Drawing app](https://github.com/Anuragcpp/Drowing_App.git)
+- 🤝 I’m looking for help with System Design
 
-- 💬 Ask me about **Android and DSA**
+- 💬 Ask me about **Android,Backend and DSA**
 
 - 📫 How to reach me **anurag1999sen@gmail.com**
 
